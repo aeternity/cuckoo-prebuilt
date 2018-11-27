@@ -1,1 +1,1 @@
-# cuckoo-prebuilt
+# Prebuilt Cuckoo Cycle executables
